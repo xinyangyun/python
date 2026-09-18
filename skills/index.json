@@ -1,0 +1,37 @@
+[
+  {
+    "name": "customer_service",
+    "description": "分析客服反馈，识别问题类型和紧急程度",
+    "path": "customer_service/SKILL.md"
+  },
+  {
+    "name": "inventory",
+    "description": "处理商品库存、缺货、库存预警和补货建议",
+    "path": "inventory/SKILL.md"
+  },
+  {
+    "name": "order",
+    "description": "处理通用订单状态、发货进度、物流和售后问题",
+    "path": "order/SKILL.md"
+  },
+  {
+    "name": "order_query",
+    "description": "查询订单商品、金额和当前订单状态",
+    "path": "order/order_query/SKILL.md"
+  },
+  {
+    "name": "order_logistics",
+    "description": "查询订单发货、物流单号、运输和签收状态",
+    "path": "order/order_logistics/SKILL.md"
+  },
+  {
+    "name": "order_cancel",
+    "description": "判断订单能否取消并给出取消处理建议",
+    "path": "order/order_cancel/SKILL.md"
+  },
+  {
+    "name": "order_after_sales",
+    "description": "处理订单退款、退货、换货和质量投诉",
+    "path": "order/order_after_sales/SKILL.md"
+  }
+]
